@@ -25,7 +25,7 @@ with open('acetazolamide.csv', 'w',encoding="utf-8") as csvfile:
 
 6.clonazepam//done
 
-7.diazepam
+7.diazepam//done
 
 8.divalproex sodium
 
