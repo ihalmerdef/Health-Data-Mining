@@ -27,13 +27,13 @@ with open('acetazolamide.csv', 'w',encoding="utf-8") as csvfile:
 
 7.diazepam//done
 
-8.divalproex sodium
+8.divalproex sodium//done
 
-9.eslicarbazepine
+9.eslicarbazepine//done
 
-10.ethosuximide
+10.ethosuximide//done
 
-11.ethotoin
+11.ethotoin//no ratings found in askapatient.com
 
 12.everolimus
 
