@@ -7,3 +7,5 @@
 4. theTalkStroke forum (https://www.stroke.org.uk/forum)//did not find any
 5. Australia’s ReachOut.com
 (https://au.reachout.com/forums) // did not find any
+6. https://www.webmd.com/// Done.
+7.https://medications.com/// Done.
